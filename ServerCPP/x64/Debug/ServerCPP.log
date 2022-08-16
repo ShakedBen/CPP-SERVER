@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\CPP\cpp with soket io\ServerCPP\ServerCPP\main.cpp(8,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ServerCPP.vcxproj -> D:\CPP\cpp with soket io\ServerCPP\x64\Debug\ServerCPP.exe
